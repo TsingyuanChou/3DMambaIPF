@@ -73,7 +73,7 @@ if __name__ == '__main__':
     # Arguments
     parser = argparse.ArgumentParser()
     ## Dataset and loader
-    parser.add_argument('--dataset_root', type=str, default='/mnt/data/digital_content_aigc/feiben/IterativePFN/data_and_ckpt/data')
+    parser.add_argument('--dataset_root', type=str, default='./data')
     parser.add_argument('--dataset', type=str, default='PUNet')
     parser.add_argument('--changelog', type=str, default='')
     parser.add_argument('--patches_per_shape_per_epoch', type=int, default=1000)
