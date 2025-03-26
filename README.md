@@ -9,6 +9,7 @@ Abstract: Noise is an inevitable aspect of point cloud acquisition, necessitatin
 ```
 conda create -n mbipf python=3.9
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+conda install pytorch-cluster -c pyg
 pip install mamba-ssm == 1.1.3.post1
 conda install -c fvcore -c iopath -c conda-forge fvcore iopath
 conda install -c bottler nvidiacub
@@ -19,6 +20,7 @@ pip install torch-scatter
 pip install point-cloud-utils
 pip install plyfile
 pip install pandas
+pip install tensorboard
 ```
 
 ## Pretrained Model
