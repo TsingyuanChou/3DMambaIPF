@@ -2,7 +2,7 @@
 
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2403.20309-b31b1b.svg?logo=arXiv)]([https://arxiv.org/abs/2403.20309](https://arxiv.org/abs/2404.05522))
+[![arXiv](https://img.shields.io/badge/Arxiv-2404.05522-b31b1b.svg?logo=arXiv)]([https://arxiv.org/pdf/2404.05522])
 [![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://3DMambaIPF.github.io/)
 </h5>
 
