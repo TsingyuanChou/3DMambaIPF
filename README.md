@@ -1,8 +1,11 @@
 <h2 align="center"> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33178">3DMambaIPF: A State Space Model for Iterative  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33178"> Point Cloud Filtering via Differentiable Rendering </a>
+
 <h5 align="center">
+
 [![arXiv](https://img.shields.io/badge/Arxiv-2403.20309-b31b1b.svg?logo=arXiv)]([https://arxiv.org/abs/2403.20309](https://arxiv.org/abs/2404.05522))
 [![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://3DMambaIPF.github.io/)
 </h5>
+
 Qingyuan Zhou, Weidong Yang, Ben Fei, Jingyi Xu, Rui Zhang, Keyi Liu, Yeqi Luo, Ying He
 
 Paper: https://ojs.aaai.org/index.php/AAAI/article/view/33178
