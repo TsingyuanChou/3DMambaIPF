@@ -36,7 +36,9 @@ pip install tensorboard
 [Download here](https://drive.google.com/file/d/11VJMq4zH56eWIaAe9YGvB8g9YLA9k35M/view?usp=sharing)
 
 ## Citation
-If you find this work useful, please kindly cite the our paper :pencil:.
+If you find this work useful, please kindly cite the our paper. 
+
+:pencil:
 
 ```bibTeX
 @inproceedings{zhou20253dmambaipf,
