@@ -34,3 +34,18 @@ pip install tensorboard
 
 ## Pretrained Model
 [Download here](https://drive.google.com/file/d/11VJMq4zH56eWIaAe9YGvB8g9YLA9k35M/view?usp=sharing)
+
+## Citation
+If you find this work useful, please kindly cite the our paper :pencil:.
+
+```bibTeX
+@inproceedings{zhou20253dmambaipf,
+  title={3dmambaipf: A state space model for iterative point cloud filtering via differentiable rendering},
+  author={Zhou, Qingyuan and Yang, Weidong and Fei, Ben and Xu, Jingyi and Zhang, Rui and Liu, Keyi and Luo, Yeqi and He, Ying},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={10},
+  pages={10843--10851},
+  year={2025}
+}
+```
