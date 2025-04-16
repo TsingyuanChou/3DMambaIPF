@@ -4,7 +4,7 @@
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2404.05522-b31b1b.svg?logo=arXiv)](https://arxiv.org/paper/2404.05522)
-[![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://3DMambaIPF.github.io/)
+[![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://github.com/TsingyuanChou/3DMambaIPF)
 [![Paper](https://img.shields.io/badge/Paper-AAAI25-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/33178)
 
 <h5 align="center">
