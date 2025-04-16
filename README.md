@@ -36,7 +36,7 @@ pip install tensorboard
 [Download here](https://drive.google.com/file/d/11VJMq4zH56eWIaAe9YGvB8g9YLA9k35M/view?usp=sharing)
 
 ## Citation
-If you find this work useful, please kindly cite the our paper. 
+If you find this work useful, please kindly cite our paper. 
 
 :pencil:
 
@@ -51,3 +51,7 @@ If you find this work useful, please kindly cite the our paper.
   year={2025}
 }
 ```
+## Acknowledgement
+This work is partly built on [IterativePFN](https://github.com/ddsediri/IterativePFN). Thanks to the author for his support and sharing!
+
+
