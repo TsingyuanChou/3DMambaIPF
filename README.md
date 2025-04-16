@@ -52,6 +52,6 @@ If you find this work useful, please kindly cite our paper.
 }
 ```
 ## Acknowledgement
-This work is partly built on [IterativePFN](https://github.com/ddsediri/IterativePFN). Thanks to the author for his support and sharing!
+This work is partially built on [IterativePFN](https://github.com/ddsediri/IterativePFN). Thanks to the author for his support and sharing!
 
 
