@@ -81,9 +81,9 @@ if __name__ == '__main__':
     parser.add_argument('--resolutions', type=str_list, default=['10000_poisson', '30000_poisson', '50000_poisson'], choices=[['x0000_poisson'], ['x0000_poisson', 'y0000_poisson'], ['x0000_poisson', 'y0000_poisson', 'z0000_poisson']])
     parser.add_argument('--noise_min', type=float, default=0.005)
     parser.add_argument('--noise_max', type=float, default=0.02)
-    parser.add_argument('--train_batch_size', type=int, default=1)
-    parser.add_argument('--val_batch_size', type=int, default=1)
-    parser.add_argument('--n_gpu', type=int, default=1)
+    parser.add_argument('--train_batch_size', type=int, default=4)
+    parser.add_argument('--val_batch_size', type=int, default=4)
+    parser.add_argument('--n_gpu', type=int, default=8)
     parser.add_argument('--num_workers', type=int, default=12)
     parser.add_argument('--save_interval', type=int, default=5)
     parser.add_argument('--debug', type=bool, default=False)
@@ -105,7 +105,7 @@ if __name__ == '__main__':
     # Ablation parameters
     parser.add_argument('--patch_size', type=int, default=1000)
     parser.add_argument('--frame_knn', type=int, default=32) # Neighbourhood side for graph convolution
-    parser.add_argument('--num_modules', type=int, default=1)
+    parser.add_argument('--num_modules', type=int, default=4)
     parser.add_argument('--noise_decay', type=int, default=4) # Noise decay is set to 16/T where T=num_modules or set to 1 for no decay
 
     args = parser.parse_args()
