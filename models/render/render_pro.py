@@ -203,7 +203,6 @@ def pointcloud_project_fast(point_cloud, transform=trams, vox_size=64):
     output = output_all['proj']
     voxels = output_all['voxels']
     tr_pc = output_all['tr_pc']
-    save_depth_map_cv2(proj_depth,f'gt',os.path.join('/home/lancer/test/202403'))
     return output, voxels, tr_pc, proj_depth
 
 def pointcloud2voxels3d_fast(pc, rgb = None, vox_size=64):  # [B,N,3]
